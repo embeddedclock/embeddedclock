@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @embeddedclock
+- 👀 I’m interested in software development and modern embedded systems
+- 🌱 I’m currently learning linux for embedded applications and RTOS.
+- 💞️ I’m looking to collaborate on Research and development in the embedded systems field.
+- 📫 You can contact me via mail on: mhamdi.mansoor@gmail.com
